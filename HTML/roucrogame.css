@@ -4,7 +4,7 @@
   }
   
   body {
-    background-color: #548687;
+    background-color:rgb(227, 241, 141);
     text-align: center;
   }
   
@@ -31,17 +31,17 @@
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+    box-shadow: 1 1 5rem rgba(253, 251, 251, 0.3);
     font-size: 8vmin;
-    color: #b0413e;
-    background-color: #ffffc7;
-  }
+    color: #0b0100;
+    background-color: #71a6b5;
+    }
   
   #reset-btn {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
-    color: #fff;
+    background-color: #1601ff;
+    color: #fdfdfd;
     border-radius: 1rem;
     border: none;
   }
@@ -49,14 +49,14 @@
   #new-btn {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
-    color: #fff;
+    background-color: #fdfd04;
+    color: #fe0404;
     border-radius: 1rem;
     border: none;
   }
   
   #msg {
-    color: #ffffc7;
+    color: #10767f;
     font-size: 5vmin;
   }
   
